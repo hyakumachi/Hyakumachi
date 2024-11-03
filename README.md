@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Information Technology student at Ateneo de Davao University<br>💻 Aspiring Backend developer and Database Administrator
+🎓 Information Technology student at Ateneo de Davao University<br>💻 Aspiring Backend developer and Database Administrator <br>🌱 I’m currently learning HTML, CSS, and Data Structures
 
 
 ## 🌐 Socials:
