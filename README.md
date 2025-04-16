@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Information Technology student at Ateneo de Davao University.<br>💻 Aspiring Backend developer and Database Administrator.<br>🌱 Constantly learning and exploring new technologies to grow my skills.<br>📚 Currently learning: ExpressJs, NestJS, and Tailwind.
+🎓 Information Technology student at Ateneo de Davao University.<br>💻 Aspiring Fullstack developer and Database Administrator.<br>🌱 Constantly learning and exploring new technologies to grow my skills.
 
 
 ## 🌐 Socials:
