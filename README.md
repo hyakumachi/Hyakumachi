@@ -1,10 +1,8 @@
-# 💫 About Me:
-🎓 Information Technology student at Ateneo de Davao University.<br>💻 Aspiring Fullstack developer and Database Administrator.<br>🌱 Constantly learning and exploring new technologies to grow my skills.
+# <h1  align='center'>Bernard Pacanza</h1:
+🎓 Information Technology student at Ateneo de Davao University.<br>💻 Aspiring Fullstack developer.<br>🌱 Constantly learning and exploring new technologies to grow my skills.
 
-
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pacanza.bernard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardpacanza4884) 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://narddev.vercel.app/)
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
@@ -14,5 +12,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hyakumachi&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
