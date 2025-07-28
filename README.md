@@ -31,5 +31,5 @@
   <h3>STATS</h3>
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=hyakumachi&theme=blue_navy&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyakumachi&theme=midnight-purple&hide_border=false&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyakumachi&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%"/>
 </div>
