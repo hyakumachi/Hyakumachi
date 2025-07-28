@@ -1,7 +1,7 @@
 <h1  align='center' style='font-weight:bold;'>BERNARD PACANZA</h1>
 
 <div align='center'>
-🎓 Information Technology student at Ateneo de Davao University.<br>💻 Aspiring Fullstack developer.<br>🌱 Constantly learning and exploring new technologies to grow my skills.
+💻 Aspiring Fullstack developer.<br>🎓 Information Technology student at Ateneo de Davao University.<br>🌱 Constantly learning and exploring new technologies to grow my skills.
 </div>
 
 <div align='center'> 
@@ -17,8 +17,6 @@
 <h3>CHECK OUT MY PORTFOLIO</h3>
 <h3><a href="https://narddev.vercel.app" target="_blank">narddev.vercel.app</a></h3>
 </div>
-
-<br />
 
 <h3 align='center'>TECH STACK</h3>
 <p align='center'>
