@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="tm-opera-o-uma-musume.gif" width="100%" alt="TM Opera O" />
+  <img src="tm-opera-o-uma-musume.gif" width="60%" alt="TM Opera O" />
 </div>
 <h1  align='center' style='font-weight:bold;'>BERNARD PACANZA</h1>
 
