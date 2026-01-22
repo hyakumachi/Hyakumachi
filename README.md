@@ -4,7 +4,7 @@
 <h1  align='center' style='font-weight:bold;'>BERNARD PACANZA</h1>
 
 <div align='center'>
-<p>Full-stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="16"/> <b>Davao, Philippines</b>.</p>
+<p>Full-stack developer based in <img src="https://flagcdn.com/w40/ph.png" alt="Philippines Flag" width="30" /> <b>Davao, Philippines</b>.</p>
 </div>
 
 <div align='center'> 
