@@ -1,8 +1,21 @@
-<h1  align='center' style='font-weight:bold;'>BERNARD PACANZA</h1>
-
-<div align='center'>
-💻 Aspiring Fullstack developer.<br>🎓 Information Technology student at Ateneo de Davao University.<br>🌱 Constantly learning and exploring new technologies to grow my skills.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="60%">
+        <h1>BERNARD PACANZA</h1>
+        <p>BSIT Student @ ADDU | Fullstack Dev</p>
+        <p>from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="16"/> <b>Davao, Philippines</b>.</p>
+      </td>
+      <td width="40%">
+        <img src="kitasan.gif" width="100%" alt="Kitasan Black">
+      </td>
+    </tr>
+  </table>
 </div>
+
+<!-- <div align='center'>
+💻 <p><strong>Full-stack developer</strong> from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="16"/> <b>Davao, Philippines</b>.</p>
+</div> -->
 
 <div align='center'> 
   <h3>CONNECT WITH ME</h3>
@@ -29,3 +42,5 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+<img src="https://i.imgur.com/kytlfYU.gif" />
