@@ -1,7 +1,10 @@
+<div align="center">
+  <img src="PASTE_YOUR_LINK_HERE" width="100%" alt="TM Opera O" />
+</div>
 <h1  align='center' style='font-weight:bold;'>BERNARD PACANZA</h1>
 
 <div align='center'>
-<p><strong>Full-stack developer</strong> from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="16"/> <b>Davao, Philippines</b>.</p>
+<p>Full-stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="16"/> <b>Davao, Philippines</b>.</p>
 </div>
 
 <div align='center'> 
@@ -29,5 +32,3 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
-[<img src="https://i.imgur.com/kytlfYU.gif" />](https://tenor.com/view/tm-opera-o-uma-musume-movie-beginning-of-a-new-era-animation-gif-14177560997598249452)
