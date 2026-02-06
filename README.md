@@ -62,7 +62,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
         width="48"
         height="48"
         alt="NestJS"
@@ -78,7 +78,7 @@
         height="48"
         alt="Node.js"
       />
-      <br /><strong>Node.js</strong>
+      <br /><strong>Node</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
