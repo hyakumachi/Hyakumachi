@@ -1,119 +1,23 @@
-<div align="center">
-  <img src="tm-opera-o-uma-musume.gif" width="80%" alt="TM Opera O" />
-</div>
-<h1  align='center' style='font-weight:bold;'>BERNARD PACANZA</h1>
-
-<div align='center'>
-<p>Full-stack developer based in <img src="https://flagcdn.com/w40/ph.png" alt="Philippines Flag" width="30" /> <b>Davao, Philippines</b>.</p>
-</div>
-
-<div align='center'> 
-  <h3>CONNECT WITH ME</h3>
+<div align='left'>
+  <h3 style='font-weight:bold;'>BERNARD PACANZA</h3>
+  <p><i>"malayo pa, pero malayo na."</i></p>
   
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pacanza.bernard)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardpacanza4884)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pacanza.berns4884@gmail.com)
+  <p>Student developer from the <img src="https://flagcdn.com/w40/ph.png" alt="Philippines Flag" width="20" /> Philippines.</p>
+  <a href="https://narddev.vercel.app" target="_blank">narddev.vercel.app</a>
+  <h4>CONNECT WITH ME</h4>
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardpacanza4884)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pacanza.berns4884@gmail.com)
+
+  <h4>TECH STACK</h4>
+  <p>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  </p>
 </div>
-
-<div align="center">
-<h3>CHECK OUT MY PORTFOLIO</h3>
-<h3><a href="https://narddev.vercel.app" target="_blank">narddev.vercel.app</a></h3>
-</div>
-
-<h3 align='center'>TECH STACK</h3>
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-        width="48"
-        height="48"
-        alt="Tailwind CSS"
-      />
-      <br /><strong>Tailwind</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        width="48"
-        height="48"
-        alt="TypeScript"
-      />
-      <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
-      <br /><strong>Next.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
-        width="48"
-        height="48"
-        alt="NestJS"
-      />
-      <br /><strong>NestJS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-        width="48"
-        height="48"
-        alt="Flutter"
-      />
-      <br /><strong>Flutter</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"
-        width="48"
-        height="48"
-        alt="Supabase"
-      />
-      <br /><strong>Supabase</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-        width="48"
-        height="48"
-        alt="MySQL"
-      />
-      <br /><strong>MySQL</strong>
-    </td>
-  </tr>
-</table>
-
