@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://i.imgur.com/PqvP4wg.png" width="100"/>
+  <img src="https://i.imgur.com/5NLe1xR.jpeg" width="125"/>
   <h2 style='font-weight:bold;'>BERNARD PACANZA</h2>
   <br>
   <img src='https://webpets-flame.vercel.app/generated/horse/white_run_8fps.gif'>
